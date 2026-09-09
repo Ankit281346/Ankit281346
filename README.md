@@ -11,14 +11,14 @@
 <!-- Stats & Most Used Languages (Transparent & Palette Themed) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bo20ozlp2-ankitfgjrty6ji.vercel.app/api?username=Ankit281346&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bo20ozlp2-ankitfgjrty6ji.vercel.app/api?username=Ankit281346&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=7C3AED&text_color=0F172A" />
-    <img width="49%" src="https://github-readme-stats-bo20ozlp2-ankitfgjrty6ji.vercel.app/api?username=Ankit281346&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=7C3AED&text_color=0F172A" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bice-nine-27.vercel.app/api?username=Ankit281346&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bice-nine-27.vercel.app/api?username=Ankit281346&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=7C3AED&text_color=0F172A" />
+    <img width="49%" src="https://github-readme-stats-bice-nine-27.vercel.app/api?username=Ankit281346&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=7C3AED&text_color=0F172A" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bo20ozlp2-ankitfgjrty6ji.vercel.app/api/top-langs/?username=Ankit281346&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bo20ozlp2-ankitfgjrty6ji.vercel.app/api/top-langs/?username=Ankit281346&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=0F172A" />
-    <img width="49%" src="https://github-readme-stats-bo20ozlp2-ankitfgjrty6ji.vercel.app/api/top-langs/?username=Ankit281346&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=0F172A" alt="Most Used Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bice-nine-27.vercel.app/api/top-langs/?username=Ankit281346&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bice-nine-27.vercel.app/api/top-langs/?username=Ankit281346&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=0F172A" />
+    <img width="49%" src="https://github-readme-stats-bice-nine-27.vercel.app/api/top-langs/?username=Ankit281346&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=0F172A" alt="Most Used Languages" />
   </picture>
 </div>
 
